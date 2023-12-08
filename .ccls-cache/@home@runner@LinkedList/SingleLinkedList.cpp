@@ -160,7 +160,7 @@ int main() {
             obj.display();
             break;
         case 8:
-            cout << "Exiting program.\n";
+            cout << "Exiting the program.\n";
             break;
         default:
             cout << "Invalid choice. Please enter a valid option.\n";
